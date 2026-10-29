@@ -11,7 +11,7 @@
 ![Watermark](https://img.shields.io/badge/Watermark-None-6366F1?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-6366F1?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/preview.jpg" alt="Anime art generated on PC" width="88%">
+<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Anime art generated on PC" width="88%">
 
 </div>
 
@@ -31,7 +31,7 @@ Generic generators draw "anime-ish". This one is trained on the real thing: clea
 
 The hardest part of AI anime is getting the *same* girl twice. Seed locking, character LoRAs and face-fix passes are built in — design your OC once, then pose her in a hundred scenes.
 
-| <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/shot2.jpg" alt="Anime character art"> | <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/shot3.jpg" alt="Anime landscape scene"> |
+| <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Anime character art"> | <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Anime landscape scene"> |
 | :---: | :---: |
 | *Your OC, every time* | *Scenes straight from a key visual* |
 
