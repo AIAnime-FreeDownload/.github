@@ -30,8 +30,6 @@ Generic generators draw "anime-ish". This one is trained on the real thing: clea
 
 The hardest part of AI anime is getting the *same* girl twice. Seed locking, character LoRAs and face-fix passes are built in — design your OC once, then pose her in a hundred scenes.
 
-| :---: | :---: |
-
 <div align="center">
 
 ## Download
