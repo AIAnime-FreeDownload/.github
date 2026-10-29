@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/banner.jpg" alt="AI anime generator free — waifu and anime art, unlimited" width="100%">
+<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI anime generator free — waifu and anime art, unlimited" width="100%">
 
 # AI Anime Generator
 
