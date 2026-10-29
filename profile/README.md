@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/off-hero.jpg" alt="Anime scenery artwork" width="100%">
 
-<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI anime generator free — waifu and anime art, unlimited" width="100%">
+<div align="center">
 
 # AI Anime Generator
 
@@ -11,29 +11,26 @@
 ![Watermark](https://img.shields.io/badge/Watermark-None-6366F1?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-6366F1?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Anime art generated on PC" width="88%">
-
 </div>
 
+<p align="center"><sub>Anime outputs in the styles this generator produces: scenery, towns and characters.</sub></p>
+
 Generic generators draw "anime-ish". This one is trained on the real thing: clean lineart, expressive eyes, hair that flows in strands, and backgrounds that look pulled from a key visual. Describe your character — get art you'd set as a wallpaper.
+
+| <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/off-gal1.jpg" alt="Anime town artwork" width="100%"> | <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/off-gal2.jpg" alt="Anime character artwork" width="100%"> |
+| :---: | :---: |
+| *Anime town artwork* | *Anime character artwork* |
 
 ## Pick your era
 
 | Style pack | Look |
 | --- | --- |
-| **Modern TV anime** | Crisp, bright, seasonal-show polish |
-| **90s retro** | Cel shading, film grain, nostalgia included |
-| **Manga ink** | Black-and-white panels with screentones |
-| **Chibi** | Maximum cute, minimum proportions |
-| **Painterly** | Makoto Shinkai skies and light |
 
 ## Keep your character consistent
 
 The hardest part of AI anime is getting the *same* girl twice. Seed locking, character LoRAs and face-fix passes are built in — design your OC once, then pose her in a hundred scenes.
 
-| <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Anime character art"> | <img src="https://raw.githubusercontent.com/AIAnime-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Anime landscape scene"> |
 | :---: | :---: |
-| *Your OC, every time* | *Scenes straight from a key visual* |
 
 <div align="center">
 
